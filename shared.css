@@ -81,7 +81,7 @@ main {
 }
 
 .main-header__brand {
-  color: var(--dark-green);
+  color: var(--highlight-color);
   text-decoration: none;
   font-weight: bold;
   /* width: 20px; */
@@ -157,7 +157,6 @@ main {
 .main-footer {
   background: black;
   padding: 2rem;
-  margin-top: 3rem;
   /* grid-row: 3 / 4; */
   grid-area: footer;
 }
